@@ -1,11 +1,11 @@
-# <p align=center>`Embracing Massive Medical Data`</p><!-- omit in toc -->
+# <p align=center>Embracing Massive Medical Data</p><!-- omit in toc -->
 
 ## Paper
 <b>Embracing Massive Medical Data</b> <br/>
-[Yu-Cheng Chou](https://scholar.google.com/citations?user=YVNRBTcAAAAJ)<sup>1</sup>, [Zongwei Zhou](https://www.zongweiz.com/)<sup>1,*</sup>, and [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/)<sup>1</sup><br/>
-<sup>1 </sup>Johns Hopkins University,   <br/>
+[Yu-Cheng Chou](https://scholar.google.com/citations?user=YVNRBTcAAAAJ), [Zongwei Zhou](https://www.zongweiz.com/), and [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) <br/>
+Johns Hopkins University,   <br/>
 MICCAI, 2024 <br/>
-[paper]() | [code](https://github.com/johnson111788/OnlineLearning)
+[paper](https://www.cs.jhu.edu/~alanlab/Pubs24/chou2024embracing.pdf) | [code](https://github.com/MrGiovanni/OnlineLearning)
 
 
 
