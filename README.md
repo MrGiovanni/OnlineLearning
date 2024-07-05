@@ -3,8 +3,8 @@
 ## Paper
 <b>Embracing Massive Medical Data</b> <br/>
 [Yu-Cheng Chou](https://scholar.google.com/citations?user=YVNRBTcAAAAJ), [Zongwei Zhou](https://www.zongweiz.com/), and [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) <br/>
-Johns Hopkins University,   <br/>
-MICCAI, 2024 <br/>
+Johns Hopkins University  <br/>
+MICCAI 2024 <br/>
 [paper](https://www.cs.jhu.edu/~alanlab/Pubs24/chou2024embracing.pdf) | [code](https://github.com/MrGiovanni/OnlineLearning)
 
 
